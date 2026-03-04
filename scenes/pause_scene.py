@@ -1,0 +1,2 @@
+class PauseScene:
+    pass
